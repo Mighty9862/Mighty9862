@@ -12,10 +12,6 @@
   <img src="https://img.shields.io/badge/DevOps-Intermediate-003545?style=flat-square&logo=devops&logoColor=white" alt="DevOps"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mighty9862&theme=dark" alt="GitHub streak"/>
-</div>
-
 ## 🛠️ Стек технологий
 
 ### 💻 Бэкенд
@@ -122,10 +118,6 @@
   <a href="mailto:brut290list.ru"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://t.me/Rozhkov_N"><img src="https://img.shields.io/badge/Telegram-Message%20Me-blue?style=for-the-badge&logo=telegram" alt="Telegram"></a>
 </div>
-
-## 📊 Активность на GitHub
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mighty9862&theme=github-dark" alt="GitHub Activity Graph">
 
 ---
 
