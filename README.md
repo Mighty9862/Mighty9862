@@ -64,17 +64,6 @@
 **Технологии**: `JavaScript` `Frontend` `API Integration`
 <br clear="right"/>
 
-### [nof_docker](https://github.com/Mighty9862/nof_docker)
-<img align="right" width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Mighty9862&repo=nof_docker&theme=dark" />
-
-**Docker-контейнеризация приложений**
-- Настройка Docker-контейнеров для упрощенного развертывания
-- Конфигурация docker-compose для разработки и тестирования
-- DevOps практики для непрерывной интеграции
-
-**Технологии**: `Docker` `HTML` `DevOps` `CI/CD`
-<br clear="right"/>
-
 ### [olymp_schools](https://github.com/Mighty9862/olymp_schools)
 <img align="right" width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Mighty9862&repo=olymp_schools&theme=dark" />
 
@@ -97,8 +86,8 @@
 ## 📫 Связаться со мной
 
 <div align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-Message%20Me-blue?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+  <a href="mailto:brut290list.ru"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://t.me/Rozhkov_N"><img src="https://img.shields.io/badge/Telegram-Message%20Me-blue?style=for-the-badge&logo=telegram" alt="Telegram"></a>
 </div>
 
 <!-- 
