@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 Mighty9862 | Бэкенд-разработчик & DevOps инженер</div>
+# <div align="center">Бэкенд-разработчик & DevOps инженер</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
